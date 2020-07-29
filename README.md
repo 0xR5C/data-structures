@@ -1,2 +1,4 @@
 # data-structures
-C implementations of common data-structures
+C Implementations of Common Data-Structures
+
+
